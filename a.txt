@@ -1,5 +1,6 @@
 ## Title of a.txt
 
-Modified by branch-a
-Modified by branch-c
-Modified by master
+Redesigned this file
+It's a new file
+3rd line
+4rd line
