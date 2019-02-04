@@ -4,3 +4,7 @@ Redesigned this file
 It's a new file
 3rd line
 4rd line
+New test
+This is again a new test
+The third test
+The fouth test
